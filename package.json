@@ -1,0 +1,24 @@
+{
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@chakra-ui/react": "^2.8.2",
+		"@emotion/react": "^11.11.1",
+		"@emotion/styled": "^11.11.0",
+		"@types/react": "^18.2.21",
+		"framer-motion": "^10.16.5",
+		"preact": "^10.16.0",
+		"preact-render-to-string": "^6.2.0",
+		"react-icons": "^4.12.0"
+	},
+	"devDependencies": {
+		"@preact/preset-vite": "^2.5.0",
+		"vike": "^0.4.143",
+		"vite": "^4.3.2"
+	}
+}
